@@ -1,6 +1,5 @@
 import pickle
 import streamlit as st
-import cmdstanpy
 
 # Load the model
 pickle_in = open('fbpro.pkl', 'rb')

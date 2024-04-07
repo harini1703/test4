@@ -3,3 +3,4 @@ numpy
 streamlit
 scikit-learn
 Prophet
+cmdstanpy.compiler_opts

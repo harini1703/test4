@@ -7,7 +7,7 @@ import joblib
 
 
 # Load the model
-pickle_in = open('fbpro.pkl', 'rb')
+pickle_in = open('fbpro1.pkl', 'rb')
 clf = pickle.load(pickle_in)
 
 st.header("Streamlined Wind Speed Forecasting: A Web-Based Machine Learning Approach for Wind Mill Operators with Real-Time Data Using Streamlit")

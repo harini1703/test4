@@ -2,5 +2,5 @@ pandas
 numpy
 streamlit
 scikit-learn
-Prophet
+prophet
 
